@@ -1,16 +1,27 @@
-## Hi there 👋
+🎓 Estudante de Engenharia de Software na Estácio.
 
-<!--
-**Caua403/Caua403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tenho interesse em desenvolvimento de software, especialmente no ecossistema Java e em Inteligência Artificial.
 
-Here are some ideas to get you started:
+🚀 Tecnologias e conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+
+Programação Orientada a Objetos (POO)
+
+Spring Boot
+
+SQL e MySQL
+
+Git e GitHub
+
+📚 Atualmente estudando
+
+Desenvolvimento de APIs REST com Spring Boot
+
+Persistência de dados com JPA e Hibernate
+
+Integração de aplicações com Inteligência Artificial
+
+🎯 Objetivo
+
+Desenvolver minhas habilidades como engenheiro de software, construir soluções tecnológicas e contribuir para projetos que gerem impacto real.
